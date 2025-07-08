@@ -1,0 +1,6 @@
+pandas
+numpy
+pytorch
+transformers
+datasets
+seqeval
